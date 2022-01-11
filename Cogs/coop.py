@@ -13,7 +13,7 @@ class coop(commands.Cog):
         data = {
             "max_age": 86400,
             "max_uses": 0,
-            "target_application_id": 755600276941176913,  # YouTube
+            "target_application_id": 880218394199220334,  # YouTube
             "target_type": 2,
             "temporary": False,
             "validate": None
